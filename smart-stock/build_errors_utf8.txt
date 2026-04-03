@@ -1,0 +1,7 @@
+﻿
+> smart-stock@0.0.0 npx
+> tsc -b
+
+src/components/InventoryTable.tsx(5,10): error TS1484: 'Product' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/InventoryTable.tsx(5,10): error TS2440: Import declaration conflicts with local declaration of 'Product'.
+src/components/NavLink.tsx(1,36): error TS1484: 'NavLinkProps' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
